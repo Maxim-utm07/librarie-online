@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pagina>
+    <titlu>Librărie Online</titlu>
+
+    <antet>
+        <h1>Bine ați venit la Librăria Online</h1>
+    </antet>
+
+    <meniu>
+        <link url="#">Acasă</link>
+        <link url="#">Cărți</link>
+        <link url="#">Contact</link>
+    </meniu>
+
+    <continut>
+        <subtitlu>Descoperă lumea cărților</subtitlu>
+        <imagine src="https://www.mihairomanfotograf.ro/wp-content/uploads/2020/04/coperta-blog-carte.jpg" />
+        <text>
+            La librăria noastră online găsești o gamă variată de cărți, de la literatură clasică până la cele mai noi apariții editoriale.
+        </text>
+    </continut>
+
+    <subsol>
+        <text>&amp;copy; 2025 Librărie Online | Toate drepturile rezervate</text>
+    </subsol>
+</pagina>
